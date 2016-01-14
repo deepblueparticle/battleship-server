@@ -18,7 +18,7 @@ Losing the game
 
 ## How to install and run
 
-**Make sure `cmake` is version >=3.2.2 and `make` is version >=4.0**
+**Make sure** `cmake` **is version >=3.2.2 and** `make` **is version >=4.0**
 
 1. Download source files and extract to working directory named 'Server'
 2. Create a directory in your working directory called 'build'
