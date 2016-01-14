@@ -22,18 +22,17 @@ Losing the game
 
 1. Download source files and extract to working directory named 'Server'
 2. Create a directory in your working directory called 'build'
-	```shell
-	mkdir build
-	```
+
+		mkdir build
+
 3. Run cmake with the following command
-	```shell
-	cmake ..
-	```
+
+		cmake ..
+
 4. Run make with the following command
-	```shell
-	make
-	```
+
+		make
+
 5. Run the server using the following command
-	```shell
-	./Server
-	```
+
+		./Server
