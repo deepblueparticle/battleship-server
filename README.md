@@ -16,7 +16,7 @@ Losing the game
 
 *Client designed by [KirklandLandry](https://github.com/KirklandLandry) from project [3313-battleship](https://github.com/KirklandLandry/3313-battleship)*
 
-## How to install and run
+### How to install and run
 
 **Make sure** `cmake` **is version >=3.2.2 and** `make` **is version >=4.0**
 
