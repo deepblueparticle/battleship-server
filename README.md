@@ -3,16 +3,16 @@ This project is aimed at designing a custom server in C++ that is able to handle
 
 ### Examples of client playing battleship
 Setting ships on the playing field
-![alt text](https://github.com/stefankram/battleship-server/blob/master/images/img1.png "Setting ships on the playing field")
+![Setting ships on the playing field](https://github.com/stefankram/battleship-server/blob/master/images/img1.png "Setting ships on the playing field")
 
 In the middle of a game
-![alt text](https://github.com/stefankram/battleship-server/blob/master/images/img2.png "In the middle of a game")
+![In the middle of a game](https://github.com/stefankram/battleship-server/blob/master/images/img2.png "In the middle of a game")
 
 Towards the end of a game
-![alt text](https://github.com/stefankram/battleship-server/blob/master/images/img3.png "Towards the end of a game")
+![Towards the end of a game](https://github.com/stefankram/battleship-server/blob/master/images/img3.png "Towards the end of a game")
 
 Losing the game
-![alt text](https://github.com/stefankram/battleship-server/blob/master/images/img4.png "Losing the game")
+![Losing the game](https://github.com/stefankram/battleship-server/blob/master/images/img4.png "Losing the game")
 
 *Client designed by [KirklandLandry](https://github.com/KirklandLandry) from project [3313-battleship](https://github.com/KirklandLandry/3313-battleship)*
 
