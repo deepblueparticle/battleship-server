@@ -21,7 +21,7 @@ Losing the game
 **Make sure** `cmake` **is version >=3.2.2 and** `make` **is version >=4.0**
 
 1. Download source files and extract to working directory named 'Server'
-2. Create a directory in your working directory called 'build'
+2. Create a directory in your working directory called 'build' and go into it
 
 		mkdir build && cd build
 
