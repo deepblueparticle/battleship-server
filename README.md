@@ -23,7 +23,7 @@ Losing the game
 1. Download source files and extract to working directory named 'Server'
 2. Create a directory in your working directory called 'build'
 
-		mkdir build
+		mkdir build && cd build
 
 3. Run cmake with the following command
 
